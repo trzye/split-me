@@ -25,3 +25,6 @@ if('serviceWorker' in navigator) {
         console.log(" Service worker is enabled.")
     });
 }
+
+document.addEventListener('touchstart', touchstartHandler, {passive: false});
+document.addEventListener('touchmove', touchmoveHandler, {passive: false});
