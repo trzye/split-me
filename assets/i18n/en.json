@@ -1,0 +1,13 @@
+{
+  "TITLE": "Split Me!",
+  "CONTRIBUTORS": "Contributors",
+  "CONTRIBUTOR" : {
+    "ADD_DESC" : "Add description"
+  },
+  "CONTRIBUTIONS": "Contributions",
+  "ADD_CONTRIBUTOR": {
+    "PLACEHOLDER_NAME": "Spicy Mike",
+    "PLACEHOLDER_DESCRIPTION": "My friend from high school",
+    "ADD_BUTTON": "add contributor"
+  }
+}

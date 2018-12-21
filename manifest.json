@@ -1,0 +1,10 @@
+{
+  "start_url" : "/",
+  "name" : "Split Me!",
+  "description" : "Split Me!",
+  "short_name" : "Split Me!",
+  "icons" : [
+    { "src" : "/icon.png", "sizes" : "144x144", "type" : "image/png" }
+  ],
+  "display" : "fullscreen"
+}
