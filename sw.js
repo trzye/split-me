@@ -2,7 +2,6 @@ self.addEventListener('install', function(e) {
     e.waitUntil(
         caches.open('split-me').then(function(cache) {
             return cache.addAll([
-                "",
                 "assets/i18n/en.json",
                 "3rdpartylicenses.txt",
                 "favicon.ico",
